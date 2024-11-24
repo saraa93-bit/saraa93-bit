@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Saraa Talat</h2> <strong style="font-size: 1.8em; color: #ff4757;">Front-End Developer</strong>
+<h2 align="left">Hi 👋 My name is Saraa Talat</h2> <strong style="font-size: 1.8em; color: #ff4757;"> Full Stack Web Developer using Python</strong>
 
 ###
 
@@ -38,8 +38,7 @@
 ---
 
 ### 👨‍💻 <strong style="color: #1e90ff;">About Me</strong>
-I'm a **dedicated Front-End Developer** with a strong passion for turning creative ideas into interactive and accessible web applications. I focus on building **responsive** and **visually appealing** user interfaces that enhance user experience. My journey has been driven by a love for **clean code**, **design principles**, and continuous learning in the ever-evolving field of front-end development.
-
+I'm a **Full Stack Web Developer specializing in Python**, passionate about crafting scalable, secure web applications. My experience spans from designing user-centric front-ends with modern libraries to building robust back-end services using frameworks like **Django and Flask**.
 🌟 **Driven by Innovation**: I enjoy designing solutions that blend **creativity** with **functionality** to make the web more intuitive and engaging.  
 💡 **Problem Solver**: I take pride in solving complex challenges through effective design and code.
 
@@ -49,8 +48,9 @@ I'm a **dedicated Front-End Developer** with a strong passion for turning creati
 I have practical experience working with various front-end technologies and tools, including:
 
 - **Languages**: JavaScript, HTML, CSS
-- **Frameworks/Libraries**: React, Redux
+- **Frameworks/Libraries**: React, Redux, Python, Django, Flask
 - **Styling**: CSS3, Sass, Styled-components
+- **Databases**: MySQL, PostgreSQL
 - **Version Control**: Git, GitHub
 - **Build Tools**: Webpack, Vite
 - **Others**: Responsive Design, Cross-browser Compatibility, RESTful APIs
@@ -69,7 +69,6 @@ Explore my [repositories](https://github.com/saraa93-bit) to see more of my proj
 I'm always open to new opportunities and collaborations. If you'd like to connect or discuss a project, feel free to reach out:
 
 - [LinkedIn](https://www.linkedin.com/in/saraa-talat-aa0951112?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- [Twitter](your-twitter-link)
 - [GitHub](https://github.com/saraa93-bit)
 
 ✨ Thank you for visiting my profile! Let's collaborate and create something amazing together.
