@@ -33,22 +33,21 @@
 
 ###
 
-<strong style="font-size: 1.5em; color: #ff4757;">Front-End Developer</strong> | <em>Passionate about Crafting Engaging User Experiences</em>
+<strong style="font-size: 1.5em; color: #ff4757;"> Full Stack Web Developer using Python</strong>
 
 ---
 
 ### 👨‍💻 <strong style="color: #1e90ff;">About Me</strong>
 I'm a **Full Stack Web Developer specializing in Python**, passionate about crafting scalable, secure web applications. My experience spans from designing user-centric front-ends with modern libraries to building robust back-end services using frameworks like **Django and Flask**.
-🌟 **Driven by Innovation**: I enjoy designing solutions that blend **creativity** with **functionality** to make the web more intuitive and engaging.  
 💡 **Problem Solver**: I take pride in solving complex challenges through effective design and code.
 
 ---
 
 ### 🛠️ <strong style="color: #1e90ff;">Languages and Tools</strong>
-I have practical experience working with various front-end technologies and tools, including:
+I have practical experience working with various technologies and tools, including:
 
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks/Libraries**: React, Redux, Python, Django, Flask
+- **Languages**: **JavaScript, HTML, CSS, Python**
+- **Frameworks/Libraries**: React, Django, Flask
 - **Styling**: CSS3, Sass, Styled-components
 - **Databases**: MySQL, PostgreSQL
 - **Version Control**: Git, GitHub
